@@ -1,1 +1,1 @@
-![Drop Ice]('drop-ice.jpg')
+![Drop Ice]('./drop-ice.jpg')
