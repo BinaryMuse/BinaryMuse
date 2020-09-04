@@ -1,1 +1,1 @@
-![Drop Ice](drop-ice.jpg)
+![Drop Ice](https://i.imgur.com/b56Fji5.jpg)
