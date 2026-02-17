@@ -2,6 +2,8 @@
 
 I'm a passionate software developer focused on building developer tools that enhance productivity and improve the command-line experience. I believe in creating elegant solutions that make developers' lives easier through well-crafted, open-source software.
 
+I also do independent AI research, with a focus on computational functionalism and what it means to "think."
+
 ## 💼 Experience
 
 ### Atuin
