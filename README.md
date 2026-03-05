@@ -49,7 +49,7 @@ I'm an active contributor on [Stack Overflow](https://stackoverflow.com/users/62
 ## 🎯 Featured Projects
 
 ### ⚗️ [Athanor](https://github.com/BinaryMuse/athanor)
-An experiment harness made for AI but flexible enough for any systematic experimentation. Written in Elixir, taking advantage of the amazing concurrency primitives the BEAM provides.
+An experiment harness developed for AI research but flexible enough for any systematic experimentation. Write your experiments in code and manage them via a web interface, or via an MCP server. Written in Elixir, taking advantage of the amazing concurrency primitives the BEAM provides.
 
 ### ✨ [Atuin](https://github.com/atuinsh/atuin)
 Magical shell history! Atuin replaces your existing shell history with a SQLite database, recording additional context for your commands. Features include:
