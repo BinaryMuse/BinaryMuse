@@ -48,7 +48,7 @@ I'm an active contributor on [Stack Overflow](https://stackoverflow.com/users/62
 
 ## 🎯 Featured Projects
 
-### [Athanor](https://github.com/BinaryMuse/athanor)
+### ⚗️ [Athanor](https://github.com/BinaryMuse/athanor)
 An experiment harness made for AI but flexible enough for any systematic experimentation. Written in Elixir, taking advantage of the amazing concurrency primitives the BEAM provides.
 
 ### ✨ [Atuin](https://github.com/atuinsh/atuin)
