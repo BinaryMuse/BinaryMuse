@@ -7,7 +7,7 @@ I also do independent AI research, with a focus on consciousness, computational 
 ## 💼 Experience
 
 ### Atuin
-I'm currently working as a Founding Engineer at [Atuin](https://github.com/atuinsh), building tools that transform how developers interact with their shell history and workflows.
+I'm currently CTO at [Atuin](https://github.com/atuinsh), building tools that transform how developers interact with their shell history and terminal workflows.
 
 * 🚀 [Atuin](https://github.com/atuinsh/atuin)
 * 🖥️ [Atuin Desktop](https://github.com/atuinsh/desktop)
